@@ -147,53 +147,10 @@
 
 
         <!--==============================iframe ՀԻՄՆԱԴԻՐ ԱՆԴԱՄՆԵՐ================================-->
-        <div class="modal fade bs-44-modal-lg" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel">
-            <div class="modal-dialog modal-lg" role="document">
-                <div class="modal-content alert alert-success">
-                    <div class="page-header"><strong class="read-more">ՀԻՄՆԱԴԻՐ ԱՆԴԱՄՆԵՐ</strong></div>
-                    <div class="row">
-                        <?php if ($members) { ?>
-                            <?php foreach ($members as $item){ ?>
-                                <div class="col-sm-6 col-md-4 ">
-                                    <div class="thumbnail alert alert-success">
-                                        <img src="<?php echo $item['link']; ?>" class="img-circle" width="200"
-                                             height="200"
-                                             title="<?php echo $item['nameEN']; ?>">
-                                        <div class="caption">
-                                            <h3><?php echo $item['nameAM']; ?></h3>
-                                            <p><?php echo $item['jobAM']; ?></p>
-                                            <button class="alright btn btn-link" data-toggle="modal"
-                                                    data-target=".bs-<?php echo $item['id']; ?>-modal-lg" role="button">
-                                                Կարդալ ավելին
-                                            </button>
-                                        </div>
-                                    </div>
-                                </div>
-                            <?}; ?>
-                        <? }; ?>
-                    </div>
 
-                </div>
-            </div>
-        </div>
         <!--==============================end iframe ՎԵՐՋԻՆ ԾՐԱԳՐԵՐ================================-->
         <!--==============================iframe ՀԻՄՆԱԴԻՐ ԱՆԴԱՄՆԵՐ rezumes================================-->
-        <?php if ($members) { ?>
-            <?php foreach ($members as $item){ ?>
-                <div class="modal fade bs-<?php echo $item['id']; ?>-modal-lg" tabindex="-1" role="dialog"
-                     aria-labelledby="myLargeModalLabel">
-                    <div class="modal-dialog modal-lg" role="document">
-                        <div class="modal-content ">
-                            <div class="page-header"><strong class="read-more"><?php echo $item['nameAM']; ?></strong>
-                            </div>
 
-                            <div class="well well-lg"><?php echo $item['textAM']; ?></div>
-
-                        </div>
-                    </div>
-                </div>
-            <? }; ?>
-        <? }; ?>
         <!--============================== end iframe ՀԻՄՆԱԴԻՐ ԱՆԴԱՄՆԵՐ rezumes================================-->
 
 
@@ -412,5 +369,4 @@
         </div>
         <!--==============================end Footer slider=================================-->
 
-     </div>
      </div>
