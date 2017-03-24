@@ -158,7 +158,7 @@
     <div class="container_12">
    <span>
       <a href="http://armeta.amindex.php/PagesEN">
-          <img src="<?php echo base_url() ?>/images/flagUS.png" alt="US">
+          <img src="http://armeta.am/images/flagUS.png" alt="US">
       </a>
        <a href="http://armeta.am">
            <img src="http://armeta.am/images/AMflag.gif" alt="AM">
