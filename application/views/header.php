@@ -11,22 +11,22 @@
     <!-- Optional theme -->
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css"
           integrity="sha384-rHyoN1iRsVXV4nD0JutlnGaslCJuC7uwjduW9SVrLvRYooPp2bWYgmgJQIXwl/Sp" crossorigin="anonymous">
-    <link rel="stylesheet" href="<?php  base_url() ?>css/form.css">
-    <link rel="stylesheet" href="<?php  base_url() ?>css/owl.carousel.css">
-    <link rel="stylesheet" href="<?php base_url() ?>css/slider.css">
-    <link rel="stylesheet" href="<?php  base_url() ?>css/style.css">
-    <script src="<?php base_url() ?>js/jquery.js"></script>
-    <script src="<?php  base_url() ?>js/jquery-migrate-1.1.1.js"></script>
-    <script src="<?php  base_url() ?>js/script.js"></script>
-    <script src="<?php  base_url() ?>js/jquery.ui.totop.js"></script>
-    <script src="<?php base_url() ?>js/superfish.js"></script>
-    <script src="<?php base_url() ?>js/jquery.equalheights.js"></script>
-    <script src="<?php base_url() ?>js/jquery.mobilemenu.js"></script>
-    <script src="<?php  base_url() ?>js/jquery.easing.1.3.js"></script>
-    <script src="<?php  base_url() ?>js/owl.carousel.js"></script>
-    <script src="<?php  base_url() ?>js/jquery.flexslider-min.js"></script>
-    <script src="<?php  base_url() ?>js/kwiks.js"></script>
-    <script src="<?php  base_url() ?>js/TMForm.js"></script>
+    <link rel="stylesheet" href="armeta/css/form.css">
+    <link rel="stylesheet" href="armeta/css/owl.carousel.css">
+    <link rel="stylesheet" href="armeta/css/slider.css">
+    <link rel="stylesheet" href="armeta/css/style.css">
+    <script src="armeta/js/jquery.js"></script>
+    <script src="armeta/js/jquery-migrate-1.1.1.js"></script>
+    <script src="armeta/js/script.js"></script>
+    <script src="armeta/js/jquery.ui.totop.js"></script>
+    <script src="armeta/js/superfish.js"></script>
+    <script src="armeta/js/jquery.equalheights.js"></script>
+    <script src="armeta/js/jquery.mobilemenu.js"></script>
+    <script src="armeta/js/jquery.easing.1.3.js"></script>
+    <script src="armeta/js/owl.carousel.js"></script>
+    <script src="armeta/js/jquery.flexslider-min.js"></script>
+    <script src="armeta/js/kwiks.js"></script>
+    <script src="armeta/js/TMForm.js"></script>
     <!-- Latest compiled and minified JavaScript -->
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"
             integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa"
