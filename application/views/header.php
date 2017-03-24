@@ -157,11 +157,11 @@
     <div class="clear"></div>
     <div class="container_12">
    <span>
-      <a href="<?php echo base_url() ?>index.php/PagesEN">
+      <a href="http://armeta.amindex.php/PagesEN">
           <img src="<?php echo base_url() ?>/images/flagUS.png" alt="US">
       </a>
-       <a href="<?php echo base_url() ?>">
-           <img src="<?php echo base_url() ?>/images/AMflag.gif" alt="AM">
+       <a href="http://armeta.am">
+           <img src="http://armeta.am/images/AMflag.gif" alt="AM">
        </a>
   </span>
         <!--==============================LOGO=================================-->
@@ -175,13 +175,13 @@
             <div class="menu_block">
                 <nav class="horizontal-nav full-width horizontalNav-notprocessed">
                     <ul class="sf-menu">
-                        <li><a href="<?php echo base_url() ?>">Գլխավոր</a></li>
-                        <li><a href="<?php echo base_url() ?>Pages/about">Մեր մասին</a></li>
-                        <li><a href="<?php echo base_url() ?>Pages/education">Կրթություն</a></li>
-                        <li><a href="<?php echo base_url() ?>Pages/video">Տեսադարան</a></li>
-                        <li><a href="<?php echo base_url() ?>Pages/partners">Գործընկերներ</a></li>
-                        <li><a href="<?php echo base_url() ?>Pages/news">Նորություններ</a></li>
-                        <li><a href="<?php echo base_url() ?>Pages/contacts">Հետադարձ կապ</a></li>
+                        <li><a href="http://armeta.am">Գլխավոր</a></li>
+                        <li><a href="http://armeta.am/Pages/about">Մեր մասին</a></li>
+                        <li><a href="http://armeta.am/Pages/education">Կրթություն</a></li>
+                        <li><a href="http://armeta.am/Pages/video">Տեսադարան</a></li>
+                        <li><a href="http://armeta.am/Pages/partners">Գործընկերներ</a></li>
+                        <li><a href="http://armeta.am/Pages/news">Նորություններ</a></li>
+                        <li><a href="http://armeta.am/Pages/contacts">Հետադարձ կապ</a></li>
                     </ul>
                 </nav>
                 <div class="clear"></div>
