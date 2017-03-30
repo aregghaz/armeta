@@ -166,7 +166,7 @@
                                             <p><?php echo $item['jobAM'] ?></p>
                                             <button class="alright btn btn-link" data-toggle="modal"
                                                     data-target=".bs-<?php echo $item['id'] ?>-modal-lg" role="button">
-                                                Read More
+                                                Կարդալ ավելին
                                             </button>
                                         </div>
                                     </div>
