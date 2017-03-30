@@ -75,9 +75,9 @@ $query_builder = TRUE;
 
 $db['default'] = array(
 	'dsn'	=> '',
-	'hostname' => 'armeta.am',
+	'hostname' => 'localhost',
 	'username' => 'root',
-	'password' => 'armeta16',
+	'password' => '',
 	'database' => 'artabase',
 	'dbdriver' => 'mysqli',
 	'dbprefix' => '',
