@@ -237,7 +237,7 @@
             <div class="modal-dialog modal-lg" role="document">
                 <div class="modal-content">
                     <div class="page-header"><strong class="read-more">honorary members</strong></div>
-                    <img src="http://armeta.am/images/indexC/hen.JPG" style="float:left; margin-right: 15px"
+                    <img src="http://armeta.am/images/indexC/hen.jpg" style="float:left; margin-right: 15px"
                          alt="">
                     <p> Hanneke van Bruggen, Professor, Occupational Therapist, Honored Doctor of the University of
                         Brighton, UK, Creator and former director of the European Occupational Therapy Network in Higher
@@ -303,7 +303,7 @@
                         ArBes health care center</a>
                 </div>
                 <div class="item it1">
-                    <a href="#"><img src="http://armeta.amimages/people/ruzanXacikyan.jpg" width="190"
+                    <a href="#"><img src="http://armeta.am/images/people/ruzanXacikyan.jpg" width="190"
                                      height="183" alt="Ռուզան Խաչիկյան">Ռուզան Խաչիկյան<br>
                         My way NGO</a>
                 </div>
@@ -333,7 +333,7 @@
                         Yerevan medical-psychological-pedagogical assessment center</a>
                 </div>
                 <div class="item it3">
-                    <a href="#"><img src="http://armeta.am/mages/people/ArevikManukyan.jpg" width="190"
+                    <a href="#"><img src="http://armeta.am/images/people/ArevikManukyan.jpg" width="190"
                                      height="183" alt="Արևիկ Մանուկյան">Arevik Manukyan<br>
                         Armenak and Anna Tadevossian's Medical Center </a>
                 </div>
