@@ -150,8 +150,8 @@
     </div>
     <![endif]-->
     <!--[if lt IE 9]>
-    <script src="<?php echo base_url() ?>/js/html5shiv.js"></script>
-    <link rel="stylesheet" media="screen" href="<?php echo base_url() ?>/css/ie.css">
+    <script src="http://armeta.am/js/html5shiv.js"></script>
+    <link rel="stylesheet" media="screen" href="http://armeta.am/css/ie.css">
     <![endif]-->
 </head>
 
@@ -163,11 +163,11 @@
     <div class="clear"></div>
     <div class="container_12">
   <span>
-      <a href="<?php echo base_url() ?>index.php/PagesEN">
-          <img src="<?php echo base_url() ?>/images/flagUS.png" alt="US">
+      <a href=http://armeta.am/index.php/PagesEN">
+          <img src="http://armeta.am/images/flagUS.png" alt="US">
       </a>
-       <a href="<?php echo base_url() ?>">
-           <img src="<?php echo base_url() ?>/images/AMflag.gif" alt="AM">
+       <a href="http://armeta.am">
+           <img src="http://armeta.am/images/AMflag.gif" alt="AM">
        </a>
   </span>
         <!--==============================LOGO=================================-->
