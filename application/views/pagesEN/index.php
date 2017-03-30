@@ -62,19 +62,19 @@
             <div class="flexslider">
                 <ul class="slides">
                     <li>
-                        <img src="<?php echo base_url() ?>/images/indexC/1.jpg" alt="Մասնակցություն">
+                        <img src="http://armeta.am/images/indexC/1.jpg" alt="Մասնակցություն">
                         <div class="flex-caption">
                             <p class="header_slider">Counseling</p>
                         </div>
                     </li>
                     <li>
-                        <img src="<?php echo base_url() ?>/images/indexC/2.jpg" alt="Աջակցություն">
+                        <img src="http://armeta.am/images/indexC/2.jpg" alt="Աջակցություն">
                         <div class="flex-caption c2">
                             <p class="header_slider">Support</p>
                         </div>
                     </li>
                     <li>
-                        <img src="<?php echo base_url() ?>/images/indexC/3.jpg" alt="հարմարեցում">
+                        <img src="http://armeta.am/images/indexC/3.jpg" alt="հարմարեցում">
                         <div class="flex-caption c3">
                             <p class="header_slider">Adaptation</p>
                         </div>
@@ -85,7 +85,7 @@
         </div>
         <!--==============================end Header slider=================================-->
         <div class="grid_4">
-            <?php include_once $_SERVER['DOCUMENT_ROOT'] . '/armeta/application/views/donationEN.php' ?>
+            <?php include_once $_SERVER['DOCUMENT_ROOT'] . '/application/views/donationEN.php' ?>
         </div>
         <div class="clear"></div>
         <!--==============================Thumbnail labelOUR MISSION================================-->
@@ -237,7 +237,7 @@
             <div class="modal-dialog modal-lg" role="document">
                 <div class="modal-content">
                     <div class="page-header"><strong class="read-more">honorary members</strong></div>
-                    <img src="<?php echo base_url() ?>/images/indexC/hen.JPG" style="float:left; margin-right: 15px"
+                    <img src="http://armeta.am/images/indexC/hen.JPG" style="float:left; margin-right: 15px"
                          alt="">
                     <p> Hanneke van Bruggen, Professor, Occupational Therapist, Honored Doctor of the University of
                         Brighton, UK, Creator and former director of the European Occupational Therapy Network in Higher
@@ -278,62 +278,62 @@
             <h2 id="carussel_header">Activities of the Association members.</h2>
             <div id="owl">
                 <div class="item">
-                    <a href="#"><img src="<?php echo base_url() ?>/images/people/ZaruhiHarutyunyan.jpg" width="190"
+                    <a href="#"><img src="http://armeta.am/images/people/ZaruhiHarutyunyan.jpg" width="190"
                                      height="183" alt="Զարուհի Հարությունյան">Zaruhi Harutyunyan<br>
                         Specialized children's home of Kharberd</a>
                 </div>
                 <div class="item it1">
-                    <a href="#"><img src="<?php echo base_url() ?>/images/people/MariannaHarutyunyan.JPG" width="190"
+                    <a href="#"><img src="http://armeta.am/images/people/MariannaHarutyunyan.JPG" width="190"
                                      height="183" alt="Մարիաննա Հարությունյան">Marianna Harutyunyan<br>
                         Agency of Medical and Social Expertises of RA</a>
                 </div>
                 <div class="item it2" id="itT">
-                    <a href="#"><img src="<?php echo base_url() ?>/images/people/TatevGhazaryan.jpg" width="190"
+                    <a href="#"><img src="http://armeta.am/images/people/TatevGhazaryan.jpg" width="190"
                                      height="183" alt="Տաթև Ղազարյան">Tatevik Ghazaryan<br>
                         Full life NGO</a>
                 </div>
                 <div class="item it3">
-                    <a href="#"><img src="<?php echo base_url() ?>/images/people/rimagalastyan.JPG" width="190"
+                    <a href="#"><img src="http://armeta.am/images/people/rimagalastyan.JPG" width="190"
                                      height="183" alt="Ռիմա Գալստյան">Ռիմա Գալստյան<br>
                         My way NGO</a>
                 </div>
                 <div class="item">
-                    <a href="#"><img src="<?php echo base_url() ?>/images/people/AnahitSafaryan.JPG" width="190"
+                    <a href="#"><img src="http://armeta.am/images/people/AnahitSafaryan.JPG" width="190"
                                      height="183" alt="Անահիտ Սաֆարյան">Anahit Safaryan<br>
                         ArBes health care center</a>
                 </div>
                 <div class="item it1">
-                    <a href="#"><img src="<?php echo base_url() ?>images/people/ruzanXacikyan.jpg" width="190"
+                    <a href="#"><img src="http://armeta.amimages/people/ruzanXacikyan.jpg" width="190"
                                      height="183" alt="Ռուզան Խաչիկյան">Ռուզան Խաչիկյան<br>
                         My way NGO</a>
                 </div>
                 <div class="item it2">
-                    <a href="#"><img src="<?php echo base_url() ?>/images/people/LilitNazayan.jpg" width="190"
+                    <a href="#"><img src="http://armeta.am/images/people/LilitNazayan.jpg" width="190"
                                      height="183" alt="Լիլիթ Նազարյան">Lilit Nazaryan<br>
                         Specialized children's home of Kharberd</a>
                 </div>
                 <div class="item it3" id="itM">
-                    <a href="#"><img src="<?php echo base_url() ?>/images/people/MeriAvetisyan.jpg" width="190"
+                    <a href="#"><img src="http://armeta.am/images/people/MeriAvetisyan.jpg" width="190"
                                      height="183" alt="Մերի Ավետիսյան">Meri Avetisyan<br>
                         Full life NGO</a>
                 </div>
                 <div class="item">
-                    <a href="#"><img src="<?php echo base_url() ?>/images/people/MuradyanNarine.jpg" width="190"
+                    <a href="#"><img src="http://armeta.am/images/people/MuradyanNarine.jpg" width="190"
                                      height="183" alt="Narine Muradyan">Narine Muradyan<br>
                         TMM teach me more</a>
                 </div>
                 <div class="item it1">
-                    <a href="#"><img src="<?php echo base_url() ?>images/people/MariamMargaryan.jpg" width="190"
+                    <a href="#"><img src="http://armeta.am/images/people/MariamMargaryan.jpg" width="190"
                                      height="183" alt="Mariam Margaryan">Mariam Margaryan<br>
                         Armenak and Anna Tadevossian's Medical Center</a>
                 </div>
                 <div class="item it2">
-                    <a href="#"><img src="<?php echo base_url() ?>images/people/Maneabajanyan.jpg" width="190"
+                    <a href="#"><img src="http://armeta.am/images/people/Maneabajanyan.jpg" width="190"
                                      height="183" alt="Մանե Աբաջյան">Mane Abagyan<br>
                         Yerevan medical-psychological-pedagogical assessment center</a>
                 </div>
                 <div class="item it3">
-                    <a href="#"><img src="<?php echo base_url() ?>images/people/ArevikManukyan.jpg" width="190"
+                    <a href="#"><img src="http://armeta.am/mages/people/ArevikManukyan.jpg" width="190"
                                      height="183" alt="Արևիկ Մանուկյան">Arevik Manukyan<br>
                         Armenak and Anna Tadevossian's Medical Center </a>
                 </div>
@@ -345,12 +345,12 @@
         <div class="grid_12" id="owl2Carussel">
             <div id="owl2">
                 <div class="item">
-                    <a href="#"><img src="<?php echo base_url() ?>/images/people/GayaneHovhannisyan.JPG" width="190"
+                    <a href="#"><img src="http://armeta.am/images/people/GayaneHovhannisyan.JPG" width="190"
                                      height="183" alt="Գայանե Հովհաննիսյան">Gayane Hovhannisyan<br>
                         Specialized children's home of Kharberd</a>
                 </div>
                 <div class="item it1">
-                    <a href="#"><img src="<?php echo base_url() ?>/images/people/Elinamirzoyan.jpg" width="190"
+                    <a href="#"><img src="http://armeta.am/images/people/Elinamirzoyan.jpg" width="190"
                                      height="183" alt="Էլինա ՄԻրզոյան">Eliza Mirzoyan<br>
                         Private sector Luxembourg</a>
                 </div>
@@ -360,42 +360,42 @@
                         My way NGO</a>
                 </div>
                 <div class="item it3">
-                    <a href="#"><img src="<?php echo base_url() ?>/images/people/InessaHautyunyan.JPG" width="190"
+                    <a href="#"><img src="http://armeta.am/images/people/InessaHautyunyan.JPG" width="190"
                                      height="183" alt="Ինեսսա Հարոթյունյան">Inessa Harutyunyan<br>
                         My way NGO</a>
                 </div>
                 <div class="item">
-                    <a href="#"><img src="<?php echo base_url() ?>/images/people/LilitAraqelyan.JPG" width="190"
+                    <a href="#"><img src="http://armeta.am/images/people/LilitAraqelyan.JPG" width="190"
                                      height="183" alt="Լիլիթ Առաքելյան">Lilit Araqelyan<br>
                         Arabkir medical center</a>
                 </div>
                 <div class="item it1">
-                    <a href="#"><img src="<?php echo base_url() ?>/images/people/TatevikNesisyan.JPG" width="190"
+                    <a href="#"><img src="http://armeta.am/images/people/TatevikNesisyan.JPG" width="190"
                                      height="183" alt="Տաթևիկ Ներսիսյան">Tatevik Nersisyan<br>
                         ArBes health care center</a>
                 </div>
                 <div class="item it2">
-                    <a href="#"><img src="<?php echo base_url() ?>/images/people/ruzanhovhannisyan.JPG" width="190"
+                    <a href="#"><img src="http://armeta.am/images/people/ruzanhovhannisyan.JPG" width="190"
                                      height="183" alt="Ռուզան Հովհաննիսյան">Ռուզան Հովհաննիսյան<br>
                         My way NGO</a>
                 </div>
                 <div class="item it3">
-                    <a href="#"><img src="<?php echo base_url() ?>/images/people/GayaneOhanyan.jpg" width="190"
+                    <a href="#"><img src="http://armeta.am/images/people/GayaneOhanyan.jpg" width="190"
                                      height="183" alt="Գայանե ՕՀանյան">Gayane Ohanyan<br>
                         Prkutyun NGO</a>
                 </div>
                 <div class="item">
-                    <a href="#"><img src="<?php echo base_url() ?>/images/people/SedaMIzoyan.jpg" width="190"
+                    <a href="#"><img src="http://armeta.am/images/people/SedaMIzoyan.jpg" width="190"
                                      height="183" alt="ՍԵդա Միրոյան">Seda Miroyan<br>
                         9 child polyclinics</a>
                 </div>
                 <div class="item it1">
-                    <a href="#"><img src="<?php echo base_url() ?>/images/people/TatevSerobyan.jpg" width="190"
+                    <a href="#"><img src="http://armeta.am/images/people/TatevSerobyan.jpg" width="190"
                                      height="183" alt="Տաթև Սերոբյան">Tatevik Serobyan<br>
                         92 Kindergarden</a>
                 </div>
                 <div class="item it2">
-                    <a href="#"><img src="<?php echo base_url() ?>/images/people/LiliaOsipova.jpg" width="190"
+                    <a href="#"><img src="http://armeta.am/images/people/LiliaOsipova.jpg" width="190"
                                      height="183" alt="Լիլիա Օսիպովա">Lilit Osipova<br>
                         Private sector Armenia</a>
                 </div>

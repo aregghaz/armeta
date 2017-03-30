@@ -3,7 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="18a209a6-4bf2-44f9-8e2a-1c592d3abcfb" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/views/headerEN.php" afterPath="$PROJECT_DIR$/application/views/headerEN.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/views/pagesEN/index-2.php" afterPath="$PROJECT_DIR$/application/views/pagesEN/index-2.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/views/pagesEN/index.php" afterPath="$PROJECT_DIR$/application/views/pagesEN/index.php" />
     </list>
     <ignored path="armeta.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -39,7 +40,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="headerEN.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="headerEN.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/application/views/headerEN.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="323">
@@ -54,41 +55,41 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index-1.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/application/views/pages/index-1.php">
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/application/views/pagesEN/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="236">
-              <caret line="98" column="33" lean-forward="true" selection-start-line="98" selection-start-column="33" selection-end-line="98" selection-end-column="33" />
+            <state relative-caret-position="305">
+              <caret line="397" column="58" lean-forward="false" selection-start-line="397" selection-start-column="58" selection-end-line="397" selection-end-column="58" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index-1.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/application/views/pagesEN/index-1.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1240">
+              <caret line="89" column="60" lean-forward="false" selection-start-line="89" selection-start-column="60" selection-end-line="89" selection-end-column="60" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="index-2.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/application/views/pages/index-2.php">
+        <entry file="file://$PROJECT_DIR$/application/views/pagesEN/index-2.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="498">
-              <caret line="99" column="60" lean-forward="false" selection-start-line="99" selection-start-column="60" selection-end-line="99" selection-end-column="60" />
+            <state relative-caret-position="144">
+              <caret line="57" column="63" lean-forward="false" selection-start-line="57" selection-start-column="63" selection-end-line="57" selection-end-column="63" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index-3.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/application/views/pages/index-3.php">
+      <file leaf-file-name="index-3.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/application/views/pagesEN/index-3.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="373">
-              <caret line="74" column="60" lean-forward="false" selection-start-line="74" selection-start-column="60" selection-end-line="74" selection-end-column="60" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index-4.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/application/views/pages/index-4.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="271">
-              <caret line="48" column="60" lean-forward="false" selection-start-line="48" selection-start-column="60" selection-end-line="48" selection-end-column="60" />
+            <state relative-caret-position="399">
+              <caret line="73" column="60" lean-forward="false" selection-start-line="73" selection-start-column="60" selection-end-line="73" selection-end-column="60" />
               <folding />
             </state>
           </provider>
@@ -114,11 +115,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index-6.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/application/views/pagesEN/index-6.php">
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/application/views/pages/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1101">
-              <caret line="80" column="19" lean-forward="false" selection-start-line="80" selection-start-column="19" selection-end-line="80" selection-end-column="19" />
+            <state relative-caret-position="304">
+              <caret line="64" column="50" lean-forward="true" selection-start-line="64" selection-start-column="34" selection-end-line="64" selection-end-column="50" />
               <folding />
             </state>
           </provider>
@@ -145,7 +146,6 @@
         <option value="$PROJECT_DIR$/application/models/Pages_model.php" />
         <option value="$PROJECT_DIR$/application/controllers/Pages.php" />
         <option value="$PROJECT_DIR$/application/views/pages/index-6.php" />
-        <option value="$PROJECT_DIR$/application/views/pagesEN/index.php" />
         <option value="$PROJECT_DIR$/application/views/pagesEN/index-6.php" />
         <option value="$PROJECT_DIR$/application/models/Admin_models.php" />
         <option value="$PROJECT_DIR$/application/controllers/Admin.php" />
@@ -158,7 +158,6 @@
         <option value="$PROJECT_DIR$/application/config/database.php" />
         <option value="$PROJECT_DIR$/application/views/header.php" />
         <option value="$PROJECT_DIR$/application/views/pagesEN/index-1.php" />
-        <option value="$PROJECT_DIR$/application/views/pagesEN/index-2.php" />
         <option value="$PROJECT_DIR$/application/views/pagesEN/index-3.php" />
         <option value="$PROJECT_DIR$/application/views/pagesEN/index-4.php" />
         <option value="$PROJECT_DIR$/application/views/pagesEN/index-5.php" />
@@ -168,6 +167,8 @@
         <option value="$PROJECT_DIR$/application/views/pages/index-4.php" />
         <option value="$PROJECT_DIR$/application/views/pages/index-5.php" />
         <option value="$PROJECT_DIR$/application/views/headerEN.php" />
+        <option value="$PROJECT_DIR$/application/views/pagesEN/index.php" />
+        <option value="$PROJECT_DIR$/application/views/pagesEN/index-2.php" />
       </list>
     </option>
   </component>
@@ -393,7 +394,7 @@
       <workItem from="1490294307667" duration="1127000" />
       <workItem from="1490349603813" duration="156000" />
       <workItem from="1490349801543" duration="814000" />
-      <workItem from="1490860881338" duration="1455000" />
+      <workItem from="1490860881338" duration="1673000" />
     </task>
     <task id="LOCAL-00001" summary="firs commit">
       <created>1481145176935</created>
@@ -451,11 +452,18 @@
       <option name="project" value="LOCAL" />
       <updated>1490862065452</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="firs commit">
+      <created>1490862359809</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1490862359815</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18457000" />
+    <option name="totallyTimeSpent" value="18675000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -609,14 +617,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/application/views/pages/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2533">
-          <caret line="149" column="0" lean-forward="false" selection-start-line="149" selection-start-column="0" selection-end-line="149" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -761,38 +761,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/application/views/pagesEN/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="549">
-          <caret line="404" column="4" lean-forward="false" selection-start-line="404" selection-start-column="4" selection-end-line="404" selection-end-column="4" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/application/views/pagesEN/index-1.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="89" column="60" lean-forward="false" selection-start-line="89" selection-start-column="60" selection-end-line="89" selection-end-column="60" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/application/views/pagesEN/index-2.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="356">
-          <caret line="83" column="60" lean-forward="false" selection-start-line="83" selection-start-column="60" selection-end-line="83" selection-end-column="60" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/application/views/pagesEN/index-3.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="379">
-          <caret line="73" column="60" lean-forward="false" selection-start-line="73" selection-start-column="60" selection-end-line="73" selection-end-column="60" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/application/views/pagesEN/index-4.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="320">
@@ -896,6 +864,46 @@
             <marker date="1490862344743" expanded="true" signature="6538:6833" ph="..." />
             <marker date="1490862344743" expanded="true" signature="6655:6820" ph="..." />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/pages/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="64" column="50" lean-forward="true" selection-start-line="64" selection-start-column="34" selection-end-line="64" selection-end-column="50" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/pagesEN/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="305">
+          <caret line="397" column="58" lean-forward="false" selection-start-line="397" selection-start-column="58" selection-end-line="397" selection-end-column="58" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/pagesEN/index-1.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1240">
+          <caret line="89" column="60" lean-forward="false" selection-start-line="89" selection-start-column="60" selection-end-line="89" selection-end-column="60" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/pagesEN/index-2.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="57" column="63" lean-forward="false" selection-start-line="57" selection-start-column="63" selection-end-line="57" selection-end-column="63" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/pagesEN/index-3.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="73" column="60" lean-forward="false" selection-start-line="73" selection-start-column="60" selection-end-line="73" selection-end-column="60" />
+          <folding />
         </state>
       </provider>
     </entry>

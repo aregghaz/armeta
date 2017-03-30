@@ -55,7 +55,7 @@
                             <div class="thumbnail">
                                 <h3><?php echo  $item['nameEN'] ?></h3>
                                 <?php if ($item['img']) { ?>
-                                    <img src="<?php  echo base_url();?>images/education/<?php echo  $item['img'] ?>" alt="<?php echo  $item['img'] ?>">
+                                    <img src="http://armeta.am/images/education/<?php echo  $item['img'] ?>" alt="<?php echo  $item['img'] ?>">
                                 <?php } ?>
                                 <div class="caption">
                                     <p><?php echo  $item['textEN'] ?></p>
