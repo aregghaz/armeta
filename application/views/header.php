@@ -176,12 +176,12 @@
                 <nav class="horizontal-nav full-width horizontalNav-notprocessed">
                     <ul class="sf-menu">
                         <li><a href="http://armeta.am">Գլխավոր</a></li>
-                        <li><a href="http://armeta.am/Pages/about">Մեր մասին</a></li>
-                        <li><a href="http://armeta.am/Pages/education">Կրթություն</a></li>
-                        <li><a href="http://armeta.am/Pages/video">Տեսադարան</a></li>
-                        <li><a href="http://armeta.am/Pages/partners">Գործընկերներ</a></li>
-                        <li><a href="http://armeta.am/Pages/news">Նորություններ</a></li>
-                        <li><a href="http://armeta.am/Pages/contacts">Հետադարձ կապ</a></li>
+                        <li><a href="http://armeta.am/index.php/Pages/about">Մեր մասին</a></li>
+                        <li><a href="http://armeta.am/index.php/Pages/education">Կրթություն</a></li>
+                        <li><a href="http://armeta.am/index.php/Pages/video">Տեսադարան</a></li>
+                        <li><a href="http://armeta.am/index.php/Pages/partners">Գործընկերներ</a></li>
+                        <li><a href="http://armeta.am/index.php/Pages/news">Նորություններ</a></li>
+                        <li><a href="http://armeta.am/index.php/Pages/contacts">Հետադարձ կապ</a></li>
                     </ul>
                 </nav>
                 <div class="clear"></div>
