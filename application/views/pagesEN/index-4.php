@@ -60,7 +60,7 @@
             <? }; ?>
         </div>
         <div class="grid_4">
-            <?php include_once $_SERVER['DOCUMENT_ROOT'] . '/armeta/application/views/donationEN.php' ?>
+            <?php include_once $_SERVER['DOCUMENT_ROOT'] . '/application/views/donationEN.php' ?>
             <a href="http://enothe.eu/"><img class="logo_class" src="<?php echo base_url() ?>images/logos/enothe.jpg"
                                              alt="enothe"></a>
             <a href="http://www.aota.org/"><img class="logo_class" src="<?php echo base_url() ?>images/logos/lota.png"

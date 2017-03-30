@@ -81,7 +81,7 @@
             <? }; ?>
         </div>
         <div class="grid_4">
-            <?php include_once $_SERVER['DOCUMENT_ROOT'] . '/armeta/application/views/donationEN.php' ?>
+            <?php include_once $_SERVER['DOCUMENT_ROOT'] . '/application/views/donationEN.php' ?>
 
         </div>
     </div>

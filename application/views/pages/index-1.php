@@ -89,7 +89,7 @@
         <!--==============================end iframe ՄԱՍՆԱԿՑԵԼ=================================-->
         <!--==============================end Content ՏԵՍԱՀՈԼՈՎԱԿ=================================-->
         <div class="grid_4 prefix_1">
-            <?php include_once $_SERVER['DOCUMENT_ROOT'] . '/armeta/application/views/donation.php' ?>
+            <?php include_once $_SERVER['DOCUMENT_ROOT'] . '/application/views/donation.php' ?>
             <h4 class="head1">Արխիվ</h4>
             <div class="block3">
                 <time datetime='2013-01-01'><span>21</span>Նոյ.</time>

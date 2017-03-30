@@ -72,7 +72,7 @@
             <? }; ?>
         </div>
         <div class="grid_4 ">
-            <?php include_once $_SERVER['DOCUMENT_ROOT'] . '/armeta/application/views/donation.php' ?>
+            <?php include_once $_SERVER['DOCUMENT_ROOT'] . '/application/views/donation.php' ?>
         </div>
     </div>
 
