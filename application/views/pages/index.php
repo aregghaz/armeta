@@ -195,6 +195,20 @@
                 </div>
             </div>
         </div>
+        <?php if ($members) { ?>
+            <?php foreach ($members as $item): ?>
+                <div class="modal fade bs-<?php echo $item['id'] ?>-modal-lg" tabindex="-1" role="dialog"
+                     aria-labelledby="myLargeModalLabel">
+                    <div class="modal-dialog modal-lg" role="document">
+                        <div class="modal-content">
+                            <div class="page-header"><strong class="read-more"><?php echo $item['nameAM'] ?></strong>
+                            </div>
+                            <p><?php echo $item['textAM'] ?></p>
+                        </div>
+                    </div>
+                </div>
+            <? endforeach; ?>
+        <? }; ?>
         <!--==============================end iframe ՎԵՐՋԻՆ ԾՐԱԳՐԵՐ================================-->
 
         <!--==============================iframe ՀԻՄՆԱԴԻՐ ԱՆԴԱՄՆԵՐ================================-->
