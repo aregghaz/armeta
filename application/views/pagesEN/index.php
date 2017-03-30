@@ -152,7 +152,7 @@
                             <?php foreach ($members as $item): ?>
                                 <div class="col-sm-6 col-md-4">
                                     <div class="thumbnail alert alert-success">
-                                        <img src="<?php echo base_url() ?>/<?php echo $item['link'] ?>"
+                                        <img src="http://armeta.am/<?php echo $item['link'] ?>"
                                              alt="<?php echo $item['nameEN'] ?>" class="img-circle" width="200"
                                              height="200"
                                              title="<?php echo $item['nameEN'] ?>">
