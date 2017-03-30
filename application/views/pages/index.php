@@ -251,7 +251,7 @@
             <div class="modal-dialog modal-lg" role="document">
                 <div class="modal-content">
                     <div class="page-header"><strong class="read-more">Պատվավոր անդամներ</strong></div>
-                    <img src="<?php echo base_url(); ?>/images/indexC/hen.jpg" style="float:left; margin-right: 15px"
+                    <img src="http://armeta.am/images/indexC/hen.JPG" style="float:left; margin-right: 15px"
                          alt="">
                     <p>Հաննեկե վան Բրյուգգեն, պրոֆեսոր, էրգոթերապիստ, Մեծ Բրիտանիայի Բրայտոնի համալսարանի պատվավոր
                         դոկտոր, Էրգոթերապիայի Բարձրագույն Կրթության Եվրոպական Ցանցի հիմնադիր և նախկին տնօրեն (ԷԲԿԵՑ):

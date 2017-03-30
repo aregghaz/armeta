@@ -163,7 +163,7 @@
     <div class="clear"></div>
     <div class="container_12">
   <span>
-      <a href=http://armeta.am/index.php/PagesEN">
+      <a href="http://armeta.am/index.php/PagesEN">
           <img src="http://armeta.am/images/flagUS.png" alt="US">
       </a>
        <a href="http://armeta.am">
