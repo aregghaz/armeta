@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="18a209a6-4bf2-44f9-8e2a-1c592d3abcfb" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/views/pagesEN/index-2.php" afterPath="$PROJECT_DIR$/application/views/pagesEN/index-2.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/views/pagesEN/index.php" afterPath="$PROJECT_DIR$/application/views/pagesEN/index.php" />
     </list>
     <ignored path="armeta.iws" />
@@ -55,11 +54,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/application/views/pagesEN/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="305">
-              <caret line="397" column="58" lean-forward="false" selection-start-line="397" selection-start-column="58" selection-end-line="397" selection-end-column="58" />
+            <state relative-caret-position="251">
+              <caret line="357" column="58" lean-forward="false" selection-start-line="357" selection-start-column="58" selection-end-line="357" selection-end-column="58" />
               <folding />
             </state>
           </provider>
@@ -68,7 +67,7 @@
       <file leaf-file-name="index-1.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/application/views/pagesEN/index-1.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1240">
+            <state relative-caret-position="254">
               <caret line="89" column="60" lean-forward="false" selection-start-line="89" selection-start-column="60" selection-end-line="89" selection-end-column="60" />
               <folding />
             </state>
@@ -85,7 +84,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index-3.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index-3.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/application/views/pagesEN/index-3.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="399">
@@ -167,8 +166,8 @@
         <option value="$PROJECT_DIR$/application/views/pages/index-4.php" />
         <option value="$PROJECT_DIR$/application/views/pages/index-5.php" />
         <option value="$PROJECT_DIR$/application/views/headerEN.php" />
-        <option value="$PROJECT_DIR$/application/views/pagesEN/index.php" />
         <option value="$PROJECT_DIR$/application/views/pagesEN/index-2.php" />
+        <option value="$PROJECT_DIR$/application/views/pagesEN/index.php" />
       </list>
     </option>
   </component>
@@ -394,7 +393,7 @@
       <workItem from="1490294307667" duration="1127000" />
       <workItem from="1490349603813" duration="156000" />
       <workItem from="1490349801543" duration="814000" />
-      <workItem from="1490860881338" duration="1673000" />
+      <workItem from="1490860881338" duration="1728000" />
     </task>
     <task id="LOCAL-00001" summary="firs commit">
       <created>1481145176935</created>
@@ -459,11 +458,18 @@
       <option name="project" value="LOCAL" />
       <updated>1490862359815</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="firs commit">
+      <created>1490862572359</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1490862572359</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18675000" />
+    <option name="totallyTimeSpent" value="18730000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -875,22 +881,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/application/views/pagesEN/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="305">
-          <caret line="397" column="58" lean-forward="false" selection-start-line="397" selection-start-column="58" selection-end-line="397" selection-end-column="58" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/application/views/pagesEN/index-1.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1240">
-          <caret line="89" column="60" lean-forward="false" selection-start-line="89" selection-start-column="60" selection-end-line="89" selection-end-column="60" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/application/views/pagesEN/index-2.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="144">
@@ -903,6 +893,22 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="399">
           <caret line="73" column="60" lean-forward="false" selection-start-line="73" selection-start-column="60" selection-end-line="73" selection-end-column="60" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/pagesEN/index-1.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="254">
+          <caret line="89" column="60" lean-forward="false" selection-start-line="89" selection-start-column="60" selection-end-line="89" selection-end-column="60" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/pagesEN/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="251">
+          <caret line="357" column="58" lean-forward="false" selection-start-line="357" selection-start-column="58" selection-end-line="357" selection-end-column="58" />
           <folding />
         </state>
       </provider>

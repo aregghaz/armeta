@@ -355,7 +355,7 @@
                         Private sector Luxembourg</a>
                 </div>
                 <div class="item it2">
-                    <a href="#"><img src="<?php echo base_url() ?>/images/people/MeriPetrosyan.JPG" width="190"
+                    <a href="#"><img src="http://armeta.am/images/people/MeriPetrosyan.JPG" width="190"
                                      height="183" alt="Մերի Պետրոսյան">Meri Petrosyan<br>
                         My way NGO</a>
                 </div>
