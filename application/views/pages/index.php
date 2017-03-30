@@ -145,25 +145,7 @@
         </div>
         <!--==============================end Thumbnail label ՎԵՐՋԻՆ ԾՐԱԳՐԵՐ================================-->
         <!--==============================Thumbnail label ՀԻՄՆԱԴԻՐ ԱՆԴԱՄՆԵՐՐ================================-->
-        <div class="grid_3">
-            <div class="block2 maxheight">
-                <div class="title">Founding members</div>
-                <div class="pad" id="asd">
-                    <p>
-                        Zaruhi Harutyunyan<br>
-                        Marianna Harutyunyan<br>
-                        Liliya Osipova<br>
-                        Arev Babasyan<br>
-                        Vardine Sahakyan<br>
-                        Anna Stepanyan<br>
-                    </p>
-                    <button type="button" class="alright btn btn-link" data-toggle="modal"
-                            data-target=".bs-44-modal-lg">
-                        Read More
-                    </button>
-                </div>
-            </div>
-        </div>
+
         <!--==============================end Thumbnail label ՎԵՐՋԻՆ ԾՐԱԳՐԵՐ================================-->
         <!--==============================iframe ՀԻՄՆԱԴԻՐ ԱՆԴԱՄՆԵՐ================================-->
         <div class="modal fade bs-44-modal-lg" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel">
