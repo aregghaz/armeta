@@ -11,22 +11,22 @@
     <!-- Optional theme -->
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css"
           integrity="sha384-rHyoN1iRsVXV4nD0JutlnGaslCJuC7uwjduW9SVrLvRYooPp2bWYgmgJQIXwl/Sp" crossorigin="anonymous">
-    <link rel="stylesheet" href="<?php echo base_url() ?>/css/form.css">
-    <link rel="stylesheet" href="<?php echo base_url() ?>/css/owl.carousel.css">
-    <link rel="stylesheet" href="<?php echo base_url() ?>/css/slider.css">
-    <link rel="stylesheet" href="<?php echo base_url() ?>/css/style.css">
-    <script src="<?php echo base_url() ?>/js/jquery.js"></script>
-    <script src="<?php echo base_url() ?>/js/jquery-migrate-1.1.1.js"></script>
-    <script src="<?php echo base_url() ?>/js/script.js"></script>
-    <script src="<?php echo base_url() ?>/js/jquery.ui.totop.js"></script>
-    <script src="<?php echo base_url() ?>/js/superfish.js"></script>
-    <script src="<?php echo base_url() ?>/js/jquery.equalheights.js"></script>
-    <script src="<?php echo base_url() ?>/js/jquery.mobilemenu.js"></script>
-    <script src="<?php echo base_url() ?>/js/jquery.easing.1.3.js"></script>
-    <script src="<?php echo base_url() ?>/js/owl.carousel.js"></script>
-    <script src="<?php echo base_url() ?>/js/jquery.flexslider-min.js"></script>
-    <script src="<?php echo base_url() ?>/js/kwiks.js"></script>
-    <script src="<?php echo base_url() ?>/js/TMForm.js"></script>
+    <link rel="stylesheet" href="http://armeta.am/css/form.css">
+    <link rel="stylesheet" href="http://armeta.am/css/owl.carousel.css">
+    <link rel="stylesheet" href="http://armeta.am/css/slider.css">
+    <link rel="stylesheet" href="http://armeta.am/css/style.css">
+    <script src="http://armeta.am/js/jquery.js"></script>
+    <script src="http://armeta.am/js/jquery-migrate-1.1.1.js"></script>
+    <script src="http://armeta.am/js/script.js"></script>
+    <script src="http://armeta.am/js/jquery.ui.totop.js"></script>
+    <script src="http://armeta.am/js/superfish.js"></script>
+    <script src="http://armeta.am/js/jquery.equalheights.js"></script>
+    <script src="http://armeta.am/js/jquery.mobilemenu.js"></script>
+    <script src="http://armeta.am/js/jquery.easing.1.3.js"></script>
+    <script src="http://armeta.am/js/owl.carousel.js"></script>
+    <script src="http://armeta.am/js/jquery.flexslider-min.js"></script>
+    <script src="http://armeta.am/js/kwiks.js"></script>
+    <script src="http://armeta.am/js/TMForm.js"></script>
     <!-- Latest compiled and minified JavaScript -->
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"
             integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa"
@@ -157,11 +157,11 @@
     <div class="clear"></div>
     <div class="container_12">
    <span>
-      <a href="<?php echo base_url() ?>index.php/PagesEN">
-          <img src="<?php echo base_url() ?>/images/flagUS.png" alt="US">
+      <a href="http://armeta.amindex.php/PagesEN">
+          <img src="http://armeta.am/images/flagUS.png" alt="US">
       </a>
-       <a href="<?php echo base_url() ?>">
-           <img src="<?php echo base_url() ?>/images/AMflag.gif" alt="AM">
+       <a href="http://armeta.am">
+           <img src="http://armeta.am/images/AMflag.gif" alt="AM">
        </a>
   </span>
         <!--==============================LOGO=================================-->
@@ -175,13 +175,13 @@
             <div class="menu_block">
                 <nav class="horizontal-nav full-width horizontalNav-notprocessed">
                     <ul class="sf-menu">
-                        <li><a href="<?php echo base_url() ?>">Գլխավոր</a></li>
-                        <li><a href="<?php echo base_url() ?>index.php/Pages/about">Մեր մասին</a></li>
-                        <li><a href="<?php echo base_url() ?>index.php/Pages/education">Կրթություն</a></li>
-                        <li><a href="<?php echo base_url() ?>index.php/Pages/video">Տեսադարան</a></li>
-                        <li><a href="<?php echo base_url() ?>index.php/Pages/partners">Գործընկերներ</a></li>
-                        <li><a href="<?php echo base_url() ?>index.php/Pages/news">Նորություններ</a></li>
-                        <li><a href="<?php echo base_url() ?>index.php/Pages/contacts">Հետադարձ կապ</a></li>
+                        <li><a href="http://armeta.am">Գլխավոր</a></li>
+                        <li><a href="http://armeta.am/Pages/about">Մեր մասին</a></li>
+                        <li><a href="http://armeta.am/Pages/education">Կրթություն</a></li>
+                        <li><a href="http://armeta.am/Pages/video">Տեսադարան</a></li>
+                        <li><a href="http://armeta.am/Pages/partners">Գործընկերներ</a></li>
+                        <li><a href="http://armeta.am/Pages/news">Նորություններ</a></li>
+                        <li><a href="http://armeta.am/Pages/contacts">Հետադարձ կապ</a></li>
                     </ul>
                 </nav>
                 <div class="clear"></div>

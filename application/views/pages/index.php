@@ -62,19 +62,19 @@
             <div class="flexslider">
                 <ul class="slides">
                     <li>
-                        <img src="<?php echo base_url() ?>/images/indexC/1.jpg" alt="Մասնակցություն">
+                        <img src="http://armeta.am/images/indexC/1.jpg" alt="Մասնակցություն">
                         <div class="flex-caption">
                             <p class="header_slider">Խորհրդատվություն</p>
                         </div>
                     </li>
                     <li>
-                        <img src="<?php echo base_url() ?>/images/indexC/2.jpg" alt="Աջակցություն">
+                        <img src="http://armeta.am/images/indexC/2.jpg" alt="Աջակցություն">
                         <div class="flex-caption c2">
                             <p class="header_slider">Աջակցություն</p>
                         </div>
                     </li>
                     <li>
-                        <img src="<?php echo base_url() ?>/images/indexC/3.jpg" alt="հարմարեցում">
+                        <img src="http://armeta.am/images/indexC/3.jpg" alt="հարմարեցում">
                         <div class="flex-caption c3">
                             <p class="header_slider">հարմարեցում</p>
                         </div>
